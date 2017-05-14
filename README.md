@@ -27,4 +27,4 @@ manage the revenue and inventory accordingly.
 
 
 
-# 3 ElecKart (Capstone Project)
+# 3 ElecKart (Ecommerce Capstone Project)
